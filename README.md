@@ -1,22 +1,17 @@
-# ITB Project / Year I / Semester I
+## ITB Project / Year I / Semester I
 
-Team members:
+### Team members:
 
-Arsene David
-
-Bogdăneanu Daria
-
-Catană Ioan-Alexandru
+- Arsene David
+- Bogdăneanu Daria
+- Catană Ioan-Alexandru
 
 
-Objective:
+### Objective:
+- N/A
 
-N/A
+### Assembler used:
+- [NASM](https://www.nasm.us/pub/nasm/releasebuilds/2.16.01/dos/)
 
-Assembler used:
-
-(https://www.nasm.us/pub/nasm/releasebuilds/2.16.01/dos/)
-
-Useful tutorials:
-
-(https://www.tutorialspoint.com/assembly_programming/index.htm)
+### Useful tutorials:
+- [TUTORIAL WEBSITE](https://www.tutorialspoint.com/assembly_programming/index.htm)
