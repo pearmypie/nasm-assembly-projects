@@ -8,7 +8,7 @@
 
 
 ### Objective:
-- N/A
+- Creating a final grade & credit points calculator for students taking the ITB subject.
 
 ### Assembler used:
 - [NASM](https://www.nasm.us/pub/nasm/releasebuilds/2.16.01/dos/)
